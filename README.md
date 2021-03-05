@@ -2,9 +2,9 @@
  vimeo downloader
  
  ## Using Library
- > selenium
- > bs4
- > vimeo_downloader
+ > * selenium
+ > * bs4
+ > * vimeo_downloader
  
  ## Using OS
  > MacOS Catalina

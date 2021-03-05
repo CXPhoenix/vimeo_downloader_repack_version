@@ -17,5 +17,5 @@
  ### **You can use the web driver I provide or download on your own**
  
  ## Default Setting
- > Downloading all of the HowFun channel's films on Vimeo
- > Downloading the quality of 1080p
+ > * Downloading all of the HowFun channel's films on Vimeo
+ > * Downloading the quality of 1080p

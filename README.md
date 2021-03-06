@@ -9,7 +9,7 @@
  ## Using OS
  > MacOS Catalina
  
- ## **You can use the requirements.txt file to quick install the library**
+ ## **You can use the requirements.txt file to quick install those libraries**
  `$ pip install -r requirements.txt`
 
  ## About Web Driver

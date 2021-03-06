@@ -10,7 +10,7 @@
  > MacOS Catalina
  
  ## **You can use the requirements.txt file to quick install the library**
- `pip install -r requirements.txt`
+ `$ pip install -r requirements.txt`
 
  ## About Web Driver
  > Chrome
